@@ -1,4 +1,4 @@
-package com.sharma.controller;
+package com.sharma.controllers;
 
 
 import org.springframework.stereotype.Controller;

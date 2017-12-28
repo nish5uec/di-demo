@@ -1,6 +1,6 @@
 package com.sharma;
 
-import com.sharma.controller.MyController;
+import com.sharma.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
